@@ -20,12 +20,6 @@ you get **eligibility, ROI insights, EMI planning, and application generation** 
 
 ---
 
-## 🎥 Demo Preview
-
-![Demo GIF](https://via.placeholder.com/900x400?text=Add+Your+Demo+GIF+Here)
-
----
-
 ## 🧠 Problem → Solution
 
 ### ❌ Problem
